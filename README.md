@@ -8,7 +8,6 @@
 - Minimalist and Simple UI
 
 # Depencies
-- CircularProgressBar by Soroush Falahati
 - CmlLib.Core by AlphaBS
 - CustomMinecraftLauncher by ksi123456ab
 - DotNetZip by Henrik/Dino Chiesa
