@@ -1,8 +1,6 @@
 # RowexaLauncher
 <p> Rowexa Launcher is lightweight and simple minecraft launcher. </p>
 
-![image](https://github.com/Revoliaa/Designs/blob/main/RowexaLauncher%20Screenshot.png)
-
 # Features
 - Online / Offline login
 - All versions (Include snapshot, beta and alpha)
